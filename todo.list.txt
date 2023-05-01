@@ -1,0 +1,1 @@
+sadece user silindiğinde noteları oto silme işlemi kaldı sonra da canlıya alma var
